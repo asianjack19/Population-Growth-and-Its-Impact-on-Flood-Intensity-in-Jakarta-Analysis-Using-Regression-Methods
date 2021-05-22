@@ -1,4 +1,4 @@
-Hello 😁😁, I'm Michael Adriel Darmawan, a computer science student in BINUS University.<br>
-Me, Nathanael William Boentoro, and Kevin Christian made this research paper to raise awareness regarding our concern about the current condition of flooding in Jakarta.<br>
-You can contact me in my <a href="mailto: michaeladriel080801@gmail.com">email<a> if you want to ask me a question or give some suggestions.<br>
+Hello 😁😁, I'm Michael Adriel Darmawan, a computer science student in BINUS University.<br><br>
+Me, Nathanael William Boentoro, and Kevin Christian made this research paper to raise awareness regarding our concern about the current condition of flooding in Jakarta.<br><br>
+You can contact me in my <a href="mailto: michaeladriel080801@gmail.com">email<a>, William's <a href="mailto: Boentorowilliam@gmail.com">email<a>, or Kevin's <a href="mailto: kevinchristiansurya@gmail.com">email<a> if you want to ask me a question or give some suggestions.<br><br>
 Thank you 👍
